@@ -1,6 +1,7 @@
 const express = require('express')
 const app = express();
-import router from "./routes/index"
+import indexRouter from "./routes/index"
+import orderRouter from "./routes/order"
 
 // 设置允许跨域访问
 app.all('*', (req, res, next) => {
@@ -12,7 +13,8 @@ app.all('*', (req, res, next) => {
     next();
 });
 
-app.use(router);
+app.use(indexRouter);
+app.use(orderRouter);
 
 
 
