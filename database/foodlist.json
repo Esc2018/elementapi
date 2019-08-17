@@ -1,0 +1,90 @@
+
+{
+    "_id": ObjectId("5d4a7ac148b69f058b5a3603"),
+    "name": "美食",
+    "imgurl": "./images/foodList/1.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b4b48b69f058b5a3607"),
+    "name": "夜宵",
+    "imgurl": "./images/foodList/2.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b6648b69f058b5a3608"),
+    "name": "商品便利",
+    "imgurl": "./images/foodList/3.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b6f48b69f058b5a3609"),
+    "name": "水果",
+    "imgurl": "./images/foodList/4.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b7b48b69f058b5a360a"),
+    "name": "医药保健",
+    "imgurl": "./images/foodList/5.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b8448b69f058b5a360b"),
+    "name": "浪漫鲜花",
+    "imgurl": "./images/foodList/6.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b8e48b69f058b5a360c"),
+    "name": "汉堡披萨",
+    "imgurl": "./images/foodList/7.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7b9f48b69f058b5a360d"),
+    "name": "厨房生鲜",
+    "imgurl": "./images/foodList/8.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7bae48b69f058b5a360e"),
+    "name": "甜品饮品",
+    "imgurl": "./images/foodList/9.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7bba48b69f058b5a360f"),
+    "name": "素食简餐",
+    "imgurl": "./images/foodList/10.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7bc748b69f058b5a3610"),
+    "name": "地方小吃",
+    "imgurl": "./images/foodList/11.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7bd248b69f058b5a3611"),
+    "name": "大牌惠吃",
+    "imgurl": "./images/foodList/12.jpeg"
+}
+
+
+{
+    "_id": ObjectId("5d4a7be248b69f058b5a3612"),
+    "name": "速食简餐",
+    "imgurl": "./images/foodList/13.jpeg"
+}
