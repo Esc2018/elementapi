@@ -4,7 +4,7 @@
 
 
 
-![1566046489597](C:\Users\15468\AppData\Roaming\Typora\typora-user-images\1566046489597.png)
+![1566046489597](https://github.com/Esc2018/elementapi/blob/master/showGithub/1.png)
 
 在项目目录下的database文件夹下有对应的数据。
 
@@ -12,11 +12,11 @@
 
 3.运行项目：npm run dev
 
-![1566046836207](C:\Users\15468\AppData\Roaming\Typora\typora-user-images\1566046836207.png)
+![1566046836207](https://github.com/Esc2018/elementapi/blob/master/showGithub/1566046836207.png)
 
 数据可先在postman中测试
 
-![1566046952220](C:\Users\15468\AppData\Roaming\Typora\typora-user-images\1566046952220.png)
+![1566046952220](https://github.com/Esc2018/elementapi/blob/master/showGithub/1566046952220.png)
 
-![1566046971332](C:\Users\15468\AppData\Roaming\Typora\typora-user-images\1566046971332.png)
+![1566046971332](https://github.com/Esc2018/elementapi/blob/master/showGithub/1566046971332.png)
 
